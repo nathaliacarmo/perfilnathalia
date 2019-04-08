@@ -1,0 +1,38 @@
+*{
+	padding: 0;
+  	margin: 0;
+  	box-sizing: border-box;
+  	text-decoration: none;
+}
+body{
+	background-color: #957BB3;
+}
+.container{
+	background-color: #FFF3E3;
+	display: inline-flex;
+}
+.logo{
+	width:30px;
+	height:30px;
+}
+.menu{
+	margin-top: 7px;
+	margin-left: 524px;
+}
+.logo02{
+	width: 30px;
+	height: 30px;
+	margin-left: 564px;
+}
+.container02{
+	background-color: #E3CAFF;
+}
+.foto{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	float: left;
+}
+.container03{
+	background-color: #8DCC9F;
+}
